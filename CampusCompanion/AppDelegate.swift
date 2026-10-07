@@ -1,8 +1,10 @@
+// xcode: set sdk=iOS
+
 //
 //  AppDelegate.swift
 //  CampusCompanion
 //
-//  Created by Geraldine Origenes on 9/11/26.
+//  Created by Geraldine Origenes on 9/23/26.
 //
 
 import UIKit
